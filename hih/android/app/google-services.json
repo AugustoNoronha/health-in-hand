@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "217793221550",
+    "project_id": "helthinhend",
+    "storage_bucket": "helthinhend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217793221550:android:8e26407336b25ee56c2e3f",
+        "android_client_info": {
+          "package_name": "br.com.hih.hih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217793221550-er1dfbs7as51oij2rvv0g0sfcf4dup2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.hih.hih",
+            "certificate_hash": "b754f09e3c571cf78c439820af31287d0f697437"
+          }
+        },
+        {
+          "client_id": "217793221550-h07iirelcamo9g9jatmh9e3ubqi10pu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4PrpR9ymIblpKZTVIYv200R3Nh7f6i7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217793221550-h07iirelcamo9g9jatmh9e3ubqi10pu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
